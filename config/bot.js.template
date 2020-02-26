@@ -22,10 +22,12 @@ module.exports = {
 	prefix: "?",
 	/** 
 	 * @desc Discord API bot token (keep it secret)
-	 * @default "InsertYourTokenHere"
+	 * @default "NjgwODU5OTQyOTU3NDgyMDMz.Xlbh9Q.uPbsWaQvr2F4scVIkDHhvWEMoqI
+"
 	 * @type string
 	 */
-	token: "InsertYourTokenHere",
+	token: "NjgwODU5OTQyOTU3NDgyMDMz.Xlbh9Q.uPbsWaQvr2F4scVIkDHhvWEMoqI
+",
 	/** 
 	 * @desc Global bot response heading
 	 * @default "\uD83D\uDD52 Discord Time Bot"
