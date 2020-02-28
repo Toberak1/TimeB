@@ -22,12 +22,10 @@ module.exports = {
 	prefix: "?",
 	/** 
 	 * @desc Discord API bot token (keep it secret)
-	 * @default "NjgwODU5OTQyOTU3NDgyMDMz.Xlbh9Q.uPbsWaQvr2F4scVIkDHhvWEMoqI
-"
+	 * @default "NjgwODU5OTQyOTU3NDgyMDMz.XleKBg.U2Qixce7wOCZF2gZMGDuZ8btyMg"
 	 * @type string
 	 */
-	token: "NjgwODU5OTQyOTU3NDgyMDMz.Xlbh9Q.uPbsWaQvr2F4scVIkDHhvWEMoqI
-",
+	token: "NjgwODU5OTQyOTU3NDgyMDMz.XleKBg.U2Qixce7wOCZF2gZMGDuZ8btyMg",
 	/** 
 	 * @desc Global bot response heading
 	 * @default "\uD83D\uDD52 Discord Time Bot"
