@@ -16,8 +16,8 @@
     ""
   ],
   "scripts": {
-    "bot": "node ./index.js"
     "start": "node ./index.js"
+
   },
   "repository": "/discord-time-bot",
   "private": true,
