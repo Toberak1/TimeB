@@ -16,7 +16,7 @@
     ""
   ],
   "scripts": {
-    "start": "node /index.js"
+    "start": "node /index.js",
 "bot": "node ./index.js"
   },
   "repository": "/discord-time-bot",
